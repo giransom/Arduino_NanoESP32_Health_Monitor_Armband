@@ -1,2 +1,4 @@
 # Arduino_NanoESP32_Health_Monitor_Armband
 This project is targeted towards hospitals in order to monitor vitals in a more condensed way. The main functionality of this project is to monitor a patients temperature, movement, and even heart rate. If any of the vitals monitored exceed the preset limit, then the armband will set off an alarm which coresspond to the specific sensor going off, which can be muted by pressing a button.
+
+![Headstone Image](Armband_Breadboard.HEIC)
