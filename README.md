@@ -21,3 +21,5 @@ This project is targeted towards hospitals in order to monitor vitals in a more 
 | DMM | Utilized for debugging and circuit analysis | $9.99 | <a href="http://amazon.com/gp/product/B0CXM242J1/ref=sw_img_1?smid=A34MWHFZRUFCUF&psc=1"> Link </a> |
 
 # Sources
+- [Original Project Instructions](https://www.instructables.com/Routine-Reinforcement-Armband/)
+- [MAX30105 Sensor Documentaion](https://www.analog.com/en/products/max30105.html)
