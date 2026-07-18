@@ -2,6 +2,11 @@
 This project is targeted towards hospitals in order to monitor vitals in a more condensed way. The main functionality of this project is to monitor a patients temperature, movement, and even heart rate. If any of the vitals monitored exceed the preset limit, then the armband will set off an alarm which coresspond to the specific sensor going off, which can be muted by pressing a button.
 
 ![Headstone Image](Armband_Breadboard.HEIC)
+
+# Code
+- [Complete Armband Code](Armband_Final_Code.ino)
+- [Code to Test Accelerometer & Heart Rate Sensors](Armband_Accelerometer_Heart_Rate_Code.ino)
+- [Code to Check Devices I2C Address](Check_I2C_Address.ino)
   
 # Materials Required
 
