@@ -4,7 +4,7 @@ This project is targeted towards hospitals in order to monitor vitals in a more 
 ![Headstone Image](Armband_Breadboard.HEIC)
 
 # Code
-- [Complete Armband Code](Armband_Final_Code.ino)
+[Complete Armband Code](Armband_Final_Code.ino)
 - [Code to Test Accelerometer & Heart Rate Sensors](Armband_Accelerometer_Heart_Rate_Code.ino)
 - [Code to Check Devices I2C Address](Check_I2C_Address.ino)
   
